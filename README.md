@@ -36,7 +36,7 @@ Original:
 Add this line (example):
 
 ```html
-<p><strong>Deployed by:</strong> DMI Cohort 2 | Rahul Sharma | Group 4 | Week 1 | 16-01-2026</p>
+<p><strong>Deployed by:</strong> DMI Cohort 2 | Adesegun Asunmo | Group 6 | Week 4 | 06-02-2026</p>
 ```
 
 ✅ This proof must be visible in your browser screenshot submission.
