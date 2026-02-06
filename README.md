@@ -39,4 +39,8 @@ Add this line (example):
 <p><strong>Deployed by:</strong> DMI Cohort 2 | Rahul Sharma | Group 4 | Week 1 | 16-01-2026</p>
 ```
 
+<<<<<<< HEAD
 ✅ This proof must be visible in your browser screenshot submission.
+=======
+✅ This proof must be visible in your browser screenshot submission.
+>>>>>>> c84824056eed17ee00c2bcd8cc04a16ea9950adc
